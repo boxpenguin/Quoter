@@ -12,3 +12,4 @@
 "If you tickle the earth with a hoe she laughs with a harvest." Douglas Jerrold
 "I don't have a Dream, I have a plan." Noxeema Jackson (Wesley Snipes) from To Wong Foo, Thanks for Everything! Julie Newmar
 “Without a struggle, there can be no progress.” Frederick Douglass
+“Simplicity is prerequisite for reliability.” Edsger W. Dijkstra
