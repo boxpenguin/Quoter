@@ -19,3 +19,4 @@
 "To live is to suffer, to survive is to find some meaning in the suffering." Frederick Nietzche
 "Nobody realizes that some people expend tremendous energy merely to be normal." Albert Camus
 "Commitment is an act, not a word." Jean-Paul Sartre
+"[The engineer] must identify the significant and critical problems, but in his education, problems have been predetermined and assigned. He must develop the judgment to know what solutions to problems are possible, but in school the problems encountered are known to have answers. He should be excited by new and unsolved challenges, but for 20 years he has lived in an educational system where he knows he is repeating the work of last year's students." Jay Wright Forrester
